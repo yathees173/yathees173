@@ -283,7 +283,7 @@
       <text x="518" y="126" font-size="15" fill="#94A3B8">Hi 👋</text>
       <text data-static-fallback="role" x="518" y="176" font-size="20" font-weight="650" fill="#94A3B8" opacity=".16">Frontend Engineer</text>
       <text x="518" y="153" font-size="28" font-weight="800" fill="#F8FAFC">I'm </text>
-      <text x="578" y="153" font-size="28" font-weight="800" fill="url(#accentGrad)">YOUR NAME</text>
+      <text x="578" y="153" font-size="28" font-weight="800" fill="url(#accentGrad)">Yathees Thiraviyarajah</text>
 
       
       <text x="518" y="176" font-size="20" font-weight="650" fill="#F8FAFC"

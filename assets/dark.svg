@@ -326,9 +326,9 @@
         <animateTransform attributeName="transform" type="translate" values="-10 0;0 0"
                           begin="3.10s" dur=".45s" fill="freeze"/>
         <circle cx="523" cy="215" r="11" fill="url(#softAccent)" stroke="#22D3EE" stroke-opacity=".28"/>
-        <text x="523" y="219" text-anchor="middle" font-size="10.5" fill="#22D3EE">L</text>
-        <text x="543" y="219" font-size="12" fill="#94A3B8" letter-spacing=".35">LOCATION</text>
-        <text x="660" y="219" font-size="13.5" fill="#F8FAFC">Your City, Country</text>
+        <text x="523" y="219" text-anchor="middle" font-size="10.5" fill="#22D3EE">U</text>
+        <text x="543" y="219" font-size="12" fill="#94A3B8" letter-spacing=".35">UNIVERSITY</text>
+        <text x="660" y="219" font-size="13.5" fill="#F8FAFC">University of Vavuniya</text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;1" begin="3.34s" dur=".45s" fill="freeze"/>
@@ -337,7 +337,7 @@
         <circle cx="523" cy="254" r="11" fill="url(#softAccent)" stroke="#22D3EE" stroke-opacity=".28"/>
         <text x="523" y="258" text-anchor="middle" font-size="10.5" fill="#22D3EE">E</text>
         <text x="543" y="258" font-size="12" fill="#94A3B8" letter-spacing=".35">EDUCATION</text>
-        <text x="660" y="258" font-size="13.5" fill="#F8FAFC">Your Degree / University</text>
+        <text x="660" y="258" font-size="13.5" fill="#F8FAFC">BSC (Hons) in Computer Science</text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;1" begin="3.58s" dur=".45s" fill="freeze"/>
@@ -355,7 +355,7 @@
         <circle cx="523" cy="332" r="11" fill="url(#softAccent)" stroke="#22D3EE" stroke-opacity=".28"/>
         <text x="523" y="336" text-anchor="middle" font-size="10.5" fill="#22D3EE">W</text>
         <text x="543" y="336" font-size="12" fill="#94A3B8" letter-spacing=".35">PORTFOLIO</text>
-        <text x="660" y="336" font-size="13.5" fill="#F8FAFC">yourportfolio.dev</text>
+        <text x="660" y="336" font-size="13.5" fill="#F8FAFC">Coming soon...</text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;1" begin="4.06s" dur=".45s" fill="freeze"/>
@@ -364,7 +364,7 @@
         <circle cx="523" cy="371" r="11" fill="url(#softAccent)" stroke="#22D3EE" stroke-opacity=".28"/>
         <text x="523" y="375" text-anchor="middle" font-size="10.5" fill="#22D3EE">@</text>
         <text x="543" y="375" font-size="12" fill="#94A3B8" letter-spacing=".35">EMAIL</text>
-        <text x="660" y="375" font-size="13.5" fill="#F8FAFC">you@example.com</text>
+        <text x="660" y="375" font-size="13.5" fill="#F8FAFC">tkyathees173@gmail.com</text>
       </g>
 
       <text x="518" y="405" font-size="11.5" fill="#94A3B8" letter-spacing="2">TOOLBOX</text>
